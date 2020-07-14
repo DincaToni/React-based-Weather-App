@@ -2,7 +2,7 @@
 
 This project represents a simple weather app created with **React.js**. In the creation of this app, I had to fetch Data from API, to make connexions between the user input and the fetched API data, and to present the output. I also had to use basic HTML, CSS, and Bootstrap knowledge. 
 
-Below you have the standard 'Create React App' README. ** Hope you have a nice day! ;) **
+Below you have the standard 'Create React App' README. **Hope you have a nice day! ;)**
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
