@@ -1,6 +1,7 @@
 # React-based-Weather-App
 
 This project represents a simple weather app created with **React.js**. In the creation of this app, I had to fetch Data from API, to make connexions between the user input and the fetched API data, and to present the output. I also had to use basic HTML, CSS, and Bootstrap knowledge. 
+*The .env_sample represents the place where the API should be. My real .env file is ignored*
 
 Below you have the standard 'Create React App' README. **Hope you have a nice day! ;)**
 
